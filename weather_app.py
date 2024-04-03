@@ -48,6 +48,8 @@ def main():
             st.warning("Please enter a location.")
         else:
             weather_api.get_weather(location)
+# Footer
+    st.markdown("""<div style='text-align: center;'><p style='color: #808080;'>&copy; 2024 Paul Joshi Sumith. All rights reserved.</p></div>""", unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main()
