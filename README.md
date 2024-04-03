@@ -24,7 +24,7 @@ pip install -r requirements.txt
 streamlit run weather_app.py
 ```
 
-Access the app in your web browser at http://localhost:8501.
+Access the app in your web browser at [Weather-Forecast-Application](https://weather-forecast-application.streamlit.app/).
 
 ## Usage
 - API Key Input: Enter your WeatherAPI.com API key in the sidebar settings. You can sign up for a free account to get an API key.
