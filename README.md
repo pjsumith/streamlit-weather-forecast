@@ -42,7 +42,7 @@ Access the app in your web browser at http://localhost:8501.
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please open an issue or submit a pull request.
-Author: [Paul Joshi Sumith] (Primary)
+#### Author: [Paul Joshi Sumith] (Primary)
 
 ## License
 This project is licensed under the MIT License.
